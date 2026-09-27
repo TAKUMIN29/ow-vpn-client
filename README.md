@@ -14,12 +14,12 @@
 ## 必要なもの
 
 - Windows 10 / 11
-- 管理者から受け取った **`ow-vpn-kit.zip`**
+- **[`ow-vpn-kit.zip` をダウンロード](https://github.com/TAKUMIN29/ow-vpn-client/releases/latest/download/ow-vpn-kit.zip)**（[Releases](https://github.com/TAKUMIN29/ow-vpn-client/releases)）
 - インストール中に 1 回だけ管理者権限（「はい」を押すだけ）
 
 ## はじめかた（1 回だけ）
 
-1. `ow-vpn-kit.zip` を好きな場所に展開する（デスクトップなど）
+1. 上のリンクから `ow-vpn-kit.zip` をダウンロードし、好きな場所に展開する（デスクトップなど）
 2. **`セットアップ.bat`** をダブルクリック
    - 「このアプリがデバイスに変更を加えることを許可しますか？」→ **はい**
    - 「Windows によって PC が保護されました」と出たら → **詳細情報** → **実行**
