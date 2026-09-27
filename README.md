@@ -61,8 +61,6 @@ PowerShell で次を実行し、`ow-vpn` と表示されれば VPN 経由です�
 Find-NetRoute -RemoteIPAddress 34.146.235.76 | Select-Object -First 1 InterfaceAlias
 ```
 
-プレイ中の通信の様子は、OW のネットワークグラフ（`Ctrl` + `Shift` + `N`）で確認できます。
-
 ## プライバシー
 
 | 項目 | 内容 |
